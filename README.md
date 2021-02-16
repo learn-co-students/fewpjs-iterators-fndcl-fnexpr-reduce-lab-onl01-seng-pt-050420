@@ -7,7 +7,7 @@
 * Use `reduce()` to create a single aggregate of all items in a list
 
 ## Introduction
-
+ 
 In the world of programming, we often work with lists. Sometimes we want to
 transform elements in that list to another value — but other times, we want to
 **aggregate** a result. In other words, we want to _reduce_ a list to a single
